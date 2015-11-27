@@ -1,0 +1,19 @@
+{
+  "name": "victory-timeline",
+  "version": "0.0.1",
+  "description": "timeline component for victory",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/boygirl/victory-timeline.git"
+  },
+  "author": "Lauren Eastridge",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/boygirl/victory-timeline/issues"
+  },
+  "homepage": "https://github.com/boygirl/victory-timeline",
+  "scripts": {
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
